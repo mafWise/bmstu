@@ -1,0 +1,11 @@
+#ifndef ERRORS
+#define ERRORS
+
+#define ARGS_ERROR 53
+#define NAME_FILE_ERROR 77
+#define FILE_EXIST_ERROR 78
+#define CONTENT_VALIDITY_ERROR 79
+#define WRITE_FILE_ERROR 80
+#define SUBSTRING_LEN_ERROR 100
+
+#endif // #ifndef ERRORS
